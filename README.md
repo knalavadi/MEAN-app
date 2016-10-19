@@ -29,9 +29,3 @@ Express
 You should be able to run and view http://localhost:3000/#/home
 
 
-### Todo
-
-* Break out HTML templates from index.ejs
-* Add more UI styles
-* Search and filter (local and server)
-	
