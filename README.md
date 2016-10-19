@@ -1,5 +1,5 @@
-# FlapperNews
-Reddit/Hacker News clone using the MEAN stack (MongoDB, Express.js, AngularJS, and Node.js).
+#News App
+Reddit like app using the MEAN stack (MongoDB, Express.js, AngularJS, and Node.js).
 
 ## Setup
 
