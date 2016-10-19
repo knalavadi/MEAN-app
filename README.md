@@ -1,6 +1,11 @@
 #News App
 Reddit like app using the MEAN stack (MongoDB, Express.js, AngularJS, and Node.js).
 
+
+#demo
+![demo](/static/demo.gif?raw=true "demo")
+
+
 ## Setup
 
 * Install Node.js

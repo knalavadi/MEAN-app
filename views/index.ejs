@@ -202,9 +202,9 @@ pauseButton.addEventListener("click", function() {
             <span class="glyphicon glyphicon-share-alt"
               ng-click="incrementCommentUpvotes(comment)"></span>
                 - by {{comment.author}}
-            <span style="font-size:20px; margin-left:10px;">
+            <span style="font-size:20px; margin-left:10px; margin-bottom:20px;">
               {{comment.body}}
-            </span>
+            </span><br>
         </div>
         <form ng-submit="addComment()"
               style="margin-top:30px;">
